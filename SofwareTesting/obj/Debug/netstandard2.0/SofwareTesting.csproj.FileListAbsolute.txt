@@ -1,0 +1,8 @@
+C:\Users\Christof\source\repos\SofwareTesting\SofwareTesting\bin\Debug\netstandard2.0\SofwareTesting.deps.json
+C:\Users\Christof\source\repos\SofwareTesting\SofwareTesting\bin\Debug\netstandard2.0\SofwareTesting.dll
+C:\Users\Christof\source\repos\SofwareTesting\SofwareTesting\bin\Debug\netstandard2.0\SofwareTesting.pdb
+C:\Users\Christof\source\repos\SofwareTesting\SofwareTesting\obj\Debug\netstandard2.0\SofwareTesting.AssemblyInfoInputs.cache
+C:\Users\Christof\source\repos\SofwareTesting\SofwareTesting\obj\Debug\netstandard2.0\SofwareTesting.AssemblyInfo.cs
+C:\Users\Christof\source\repos\SofwareTesting\SofwareTesting\obj\Debug\netstandard2.0\SofwareTesting.csproj.CoreCompileInputs.cache
+C:\Users\Christof\source\repos\SofwareTesting\SofwareTesting\obj\Debug\netstandard2.0\SofwareTesting.dll
+C:\Users\Christof\source\repos\SofwareTesting\SofwareTesting\obj\Debug\netstandard2.0\SofwareTesting.pdb
